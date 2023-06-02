@@ -25,3 +25,6 @@ To use the quiz web application, follow these steps:
 - HTML
 - CSS
 - JavaScript
+
+## Deployed link
+https://thisisme006.github.io/Quiz-game-JS-/
